@@ -1,5 +1,3 @@
-Here's a basic README.md file for the provided Python script:
-
 ```markdown
 # GPT-4 Assistant
 
