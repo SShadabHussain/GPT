@@ -33,8 +33,8 @@ def main():
     
     st.set_page_config(
             # page_title="GPT-4 Assistant",
-            page_icon="",
-            layout="wide"
+            page_icon="🤖",
+            # layout="wide"
         )
     st.title("GPT-4 Assistant")
     col_A, col_B, col_C = st.columns([5, 5, 5])
