@@ -1,4 +1,4 @@
-```markdown
+
 # GPT-4 Assistant
 
 This is a Streamlit web application that utilizes the OpenAI GPT-4 model to generate responses based on user prompts.
